@@ -13,7 +13,7 @@ This project is a simple personal portfolio website built using HTML and CSS. Th
 - CSS
 
 ## Live Website
-https://yourusername.github.io/portfolio-website
+file:///Users/jordynflynn/Desktop/MyWebsite/index.html
 
 ## Author
 Jordyn Flynn  
